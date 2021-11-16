@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46474543089",
+    "firebase_url": "https://certopus.firebaseio.com",
+    "project_id": "certopus",
+    "storage_bucket": "certopus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46474543089:android:f5b930eef20a06739f4e50",
+        "android_client_info": {
+          "package_name": "tech.devsquirrel.certopus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46474543089-crllcvtrdtba4in2psn12akq32ofvrt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.devsquirrel.certopus",
+            "certificate_hash": "74f8c74419fcf13272a4e3c098466416835d3ecd"
+          }
+        },
+        {
+          "client_id": "46474543089-gom6c55g30rpplujg778ca9kj5adabsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASrP0nFHLJHYmXkzRBbuvZUY4hjYsX830"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46474543089-gom6c55g30rpplujg778ca9kj5adabsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

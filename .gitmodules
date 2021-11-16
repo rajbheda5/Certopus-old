@@ -1,0 +1,4 @@
+[submodule "certopus_api"]
+	path = certopus_api
+	url = https://github.com/Devsquirreltech/certopus_api.git
+	branch = main

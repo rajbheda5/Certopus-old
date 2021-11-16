@@ -1,0 +1,42 @@
+name: certopus
+description: Certificate verification and generator
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  simple_animations: ^2.5.0
+  provider: ^4.3.2+2
+  font_awesome_flutter: ^8.10.0
+  firebase_core: ^0.5.2
+  firebase_analytics: ^6.2.0
+  shared_preferences: ^0.5.12+4
+  cloud_firestore: ^0.14.3+1
+  crypto: ^2.1.5
+  flutter_bloc: ^6.1.0
+  formz: ^0.3.1
+  equatable: ^1.2.5
+  authentication_repository:
+    path: packages/authentication_repository
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  bloc_test: ^7.1.0
+  mockito: ^4.1.1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/
+
+  fonts:
+  - family: George
+    fonts:
+    - asset: fonts/George.ttf
